@@ -6,6 +6,7 @@ public class reverseString {
         int end = a.length() - 1;
 
         char[] arr = a.toCharArray();
+
         while (start < end) {
             char temp = arr[start];
             arr[start] = arr[end];
