@@ -14,7 +14,7 @@ public class addtwolargenumbers {
         number2 = in.nextLine();
 
         BigInteger first=new BigInteger(number1);
-        BigInteger second=new BigInteger(number2);
+         BigInteger second=new BigInteger(number2);
 
         BigInteger sum;
 
