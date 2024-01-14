@@ -1,6 +1,6 @@
 public class pallindromebumber {
     public static void main(String[] args) {
-        int num = 5155;
+        int num = 5115;
         int s = num;
 
         int reminder, sum = 0;
