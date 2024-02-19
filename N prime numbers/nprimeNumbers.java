@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class nprimeNumbers {
     public static void main(String[] args) {
         
-        System.out.println("enter number to print prime numbers");
+        System.out.println("enter number to print prime numbers...");
         Scanner sc =new Scanner(System.in);
 
         int n=sc.nextInt();
