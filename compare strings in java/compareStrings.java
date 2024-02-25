@@ -1,6 +1,6 @@
 public class compareStrings {
     public static void main(String[] args) {
-        String a="helloo";
+        String a="hello";
         String b="hello";
 
         if(a.compareTo(b)>0)
